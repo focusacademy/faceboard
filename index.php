@@ -5,7 +5,7 @@ if(!isset($_SESSION['uid'])) header('location:login.php');
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>FACEBoard Testing</title>
+	<title>FACEBoard Testing 2</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href='bootstrap/css/bootstrap.min.css' rel='stylesheet' type='text/css'>	
 	<link href='common/js/rateit/src/rateit.css' rel='stylesheet' type='text/css'>		
